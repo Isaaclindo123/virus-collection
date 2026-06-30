@@ -1,2 +1,2 @@
-# -virus-collection
-a collection of virus
+# Uma coleção de virus (sim, eu sou brasileiro)
+Sao virus que eu criei e outros tbm...
